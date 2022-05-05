@@ -89,7 +89,7 @@ nav .navItems .navItem:hover {
 footer {
     border: 2px solid red;
     border-radius: 5px;
-    background-color: rgb(66, 66, 66);
+    background-color: rgb(0, 0, 0);
     margin-top: 100px;
     height: 400px;
     width: auto;
@@ -115,8 +115,8 @@ input {
 }
 
 .titels {
-    color: white;
-    background-color: rgb(66, 66, 66);
+    color: rgb(255, 0, 0);
+    background-color: rgb(0, 0, 0);
     text-align: center;
     margin: auto 0px;
     justify-content: space-around;
@@ -142,7 +142,7 @@ input {
 }
 .Search ul li a{
     text-decoration: none;
-    color: black;
+    color: rgb(255, 255, 255);
     opacity: 0.75;
 }
 .Search ul li a:hover{
@@ -160,7 +160,7 @@ opacity: 5;
 }
 .Beach ul li a{
     text-decoration: none;
-    color: black;
+    color: rgb(255, 255, 255);
     opacity: 0.75;
 }
 .Beach ul li a:hover{
@@ -178,7 +178,7 @@ opacity: 5;
 }
 .Gold ul li a{
     text-decoration: none;
-    color: black;
+    color: rgb(255, 255, 255);
     opacity: 0.75;
 }
 .Gold ul li a:hover{
